@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("Hi");
 		
 		System.out.println("BOOM! It's Jarrod!");
+		System.out.println("BOOM! It's Michael!");
 	}
 
 }
